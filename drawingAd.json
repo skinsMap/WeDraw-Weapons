@@ -1,7 +1,7 @@
 {
   "AdsController": {
       
-    "AdNetwork"              : "admob",
+    "AdNetwork"              : "facebook",
     "IntervalClick"          : 1,
 
     "AdMob_Banner"           : "ca-app-pub-3071522790697118/9839175428",
