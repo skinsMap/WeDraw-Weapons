@@ -1,0 +1,117 @@
+{
+  "AdsController": {
+      
+    "AdNetwork"              : "admob",
+    "IntervalClick"          : 1,
+
+    "AdMob_Banner"           : "ca-app-pub-3940256099942544/6300978111",
+    "AdMob_InterstitialAd"   : "ca-app-pub-3940256099942544/1033173712",
+    "AdMob_RewardAd"         : "ca-app-pub-3940256099942544/5224354917",
+    "AdMob_OpenAd"           : "ca-app-pub-3940256099942544/3419835294",
+    "OpenAd_status"          : true ,
+
+    "Facebook_Banner"        : "871738060667001_871738510666956",
+    "Facebook_InterstitialAd": "871738060667001_871738604000280",
+    "Facebook_RewardAd"      : "ca-app-pub-3940256099942544/1033173712",
+
+    "Applovin_Banner"        : "4f657f6640db2eeb",
+    "Applovin_InterstitialAd": "362e843f5198f772",
+    "Applovin_RewardAd"      : "362e843f5198f772",
+
+    "Unity_GameID"           : "5037733",
+    "Unity_Banner"           : "Banner_Android",
+    "Unity_InterstitialAd"   : "Interstitial_Android",
+    "Unity_RewardAd"         : "video",
+
+    "IronSourceKey"          : "178437e45"
+  },
+  
+  "Category": [
+    {
+      "category_title": "Anime",
+      "category_preview": "https://zonekapp.com/AndroidStudio/Drawing/anime.png",
+      "category_list": [
+        {
+          "name": "One Piece",
+          "cover": "https://zonekapp.com/AndroidStudio/Drawing/one_piece_cover.png"
+        },
+        {
+          "name": "Naruto",
+          "cover": "https://zonekapp.com/AndroidStudio/Drawing/naruto_cover.png"
+        }
+      ]
+    },
+    {
+      "category_title": "Poses",
+      "category_preview": "https://zonekapp.com/AndroidStudio/Drawing/poses.png",
+      "category_list": [
+        {
+          "name": "One Piece",
+          "cover": "https://zonekapp.com/AndroidStudio/Drawing/one_piece_cover.png"
+        },
+        {
+          "name": "Naruto",
+          "cover": "https://zonekapp.com/AndroidStudio/Drawing/naruto_cover.png"
+        }
+      ]
+    }
+  ],
+  "One Piece": [
+    {
+      "title": "San Jy",
+      "preview": "https://e7.pngegg.com/pngimages/997/382/png-clipart-vinsmoke-sanji-monkey-d-luffy-roronoa-zoro-one-piece-pirate-warriors-nami-one-piece-manga-fictional-character.png",
+      "locked": false,
+      "steps": [
+        "luffy_1",
+        "luffy_2"
+      ]
+    },
+    {
+      "title": "Monkey D.Luffy",
+      "preview": "https://zonekapp.com/AndroidStudio/Drawing/luffy.png",
+      "locked": true,
+      "steps": [
+        "luffy_1",
+        "luffy_2"
+      ]
+    },
+    {
+      "title": "Nami",
+      "preview": "https://zonekapp.com/AndroidStudio/Drawing/nami.png",
+      "locked": false,
+      "steps": [
+        "https://zonekapp.com/AndroidStudio/Drawing/Nami/1.png",
+        "https://zonekapp.com/AndroidStudio/Drawing/Nami/2.png",
+        "https://zonekapp.com/AndroidStudio/Drawing/Nami/3.png",
+        "https://zonekapp.com/AndroidStudio/Drawing/Nami/4.png",
+        "https://zonekapp.com/AndroidStudio/Drawing/Nami/5.png",
+        "https://zonekapp.com/AndroidStudio/Drawing/Nami/6.png",
+        "https://zonekapp.com/AndroidStudio/Drawing/Nami/7.png",
+        "https://zonekapp.com/AndroidStudio/Drawing/Nami/8.png",
+        "https://zonekapp.com/AndroidStudio/Drawing/Nami/9.png",
+        "https://zonekapp.com/AndroidStudio/Drawing/Nami/11.png",
+        "https://zonekapp.com/AndroidStudio/Drawing/Nami/12.png",
+        "https://zonekapp.com/AndroidStudio/Drawing/Nami/13.png",
+        "https://zonekapp.com/AndroidStudio/Drawing/Nami/14.png"
+      ]
+    }
+  ],
+  "Naruto": [
+    {
+      "title": "Naruto",
+      "preview": "",
+      "steps": [
+        "nar_1",
+        "nar_2"
+      ]
+    },
+    {
+      "title": "Kakashi Hatake",
+      "preview": "",
+      "steps": [
+        "kak_1",
+        "kak_2"
+      ]
+    }
+  ]
+}
