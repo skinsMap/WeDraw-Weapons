@@ -4,114 +4,387 @@
     "AdNetwork"              : "admob",
     "IntervalClick"          : 1,
 
-    "AdMob_Banner"           : "ca-app-pub-3940256099942544/6300978111",
-    "AdMob_InterstitialAd"   : "ca-app-pub-3940256099942544/1033173712",
-    "AdMob_RewardAd"         : "ca-app-pub-3940256099942544/5224354917",
-    "AdMob_OpenAd"           : "ca-app-pub-3940256099942544/3419835294",
+    "AdMob_Banner"           : "ca-app-pub-3071522790697118/9839175428",
+    "AdMob_InterstitialAd"   : "ca-app-pub-3071522790697118/8737862656",
+    "AdMob_RewardAd"         : "ca-app-pub-3071522790697118/9439720174",
+    "AdMob_OpenAd"           : "ca-app-pub-3071522790697118/8792304173",
     "OpenAd_status"          : true ,
 
-    "Facebook_Banner"        : "871738060667001_871738510666956",
-    "Facebook_InterstitialAd": "871738060667001_871738604000280",
-    "Facebook_RewardAd"      : "ca-app-pub-3940256099942544/1033173712",
+    "Facebook_Banner"        : "748322403355691_748322536689011",
+    "Facebook_InterstitialAd": "748322403355691_748322596689005",
+    "Facebook_RewardAd"      : "748322403355691_748322673355664",
 
-    "Applovin_Banner"        : "4f657f6640db2eeb",
-    "Applovin_InterstitialAd": "362e843f5198f772",
-    "Applovin_RewardAd"      : "362e843f5198f772",
+    "Applovin_Banner"        : "",
+    "Applovin_InterstitialAd": "",
+    "Applovin_RewardAd"      : "",
 
-    "Unity_GameID"           : "5037733",
-    "Unity_Banner"           : "Banner_Android",
-    "Unity_InterstitialAd"   : "Interstitial_Android",
-    "Unity_RewardAd"         : "video",
+    "Unity_GameID"           : "",
+    "Unity_Banner"           : "",
+    "Unity_InterstitialAd"   : "",
+    "Unity_RewardAd"         : "",
 
-    "IronSourceKey"          : "178437e45"
+    "IronSourceKey"          : ""
   },
   
   "Category": [
     {
-      "category_title": "Anime",
-      "category_preview": "https://zonekapp.com/AndroidStudio/Drawing/anime.png",
+      "category_title": "Wednesday",
+      "category_preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Untitled-2.png",
       "category_list": [
         {
-          "name": "One Piece",
-          "cover": "https://zonekapp.com/AndroidStudio/Drawing/one_piece_cover.png"
-        },
-        {
-          "name": "Naruto",
-          "cover": "https://zonekapp.com/AndroidStudio/Drawing/naruto_cover.png"
-        }
-      ]
-    },
-    {
-      "category_title": "Poses",
-      "category_preview": "https://zonekapp.com/AndroidStudio/Drawing/poses.png",
-      "category_list": [
-        {
-          "name": "One Piece",
-          "cover": "https://zonekapp.com/AndroidStudio/Drawing/one_piece_cover.png"
-        },
-        {
-          "name": "Naruto",
-          "cover": "https://zonekapp.com/AndroidStudio/Drawing/naruto_cover.png"
+          "name": "Wednesday",
+          "cover": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Untitled-3.png"
         }
       ]
     }
   ],
-  "One Piece": [
+  "Wednesday": [
     {
-      "title": "San Jy",
-      "preview": "https://e7.pngegg.com/pngimages/997/382/png-clipart-vinsmoke-sanji-monkey-d-luffy-roronoa-zoro-one-piece-pirate-warriors-nami-one-piece-manga-fictional-character.png",
+      "title": "Xavier",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Xavier%20Wednesday/xavier_icon.png",
       "locked": false,
       "steps": [
-        "luffy_1",
-        "luffy_2"
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Xavier%20Wednesday/xavier_1.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Xavier%20Wednesday/xavier_2.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Xavier%20Wednesday/xavier_3.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Xavier%20Wednesday/xavier_4.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Xavier%20Wednesday/xavier_5.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Xavier%20Wednesday/xavier_6.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Xavier%20Wednesday/xavier_7.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Xavier%20Wednesday/xavier_8.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Xavier%20Wednesday/xavier_9.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Xavier%20Wednesday/xavier_10.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Xavier%20Wednesday/xavier_11.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Xavier%20Wednesday/xavier_12.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Xavier%20Wednesday/xavier_13.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Xavier%20Wednesday/xavier_14.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Xavier%20Wednesday/xavier_15.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Xavier%20Wednesday/xavier_16.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Xavier%20Wednesday/xavier_17.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Xavier%20Wednesday/xavier_18.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Xavier%20Wednesday/xavier_19.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Xavier%20Wednesday/xavier_20.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Xavier%20Wednesday/xavier_21.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Xavier%20Wednesday/xavier_22.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Xavier%20Wednesday/xavier_23.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Xavier%20Wednesday/xavier_24.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Xavier%20Wednesday/xavier_25.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Xavier%20Wednesday/xavier_26.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Xavier%20Wednesday/xavier_27.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Xavier%20Wednesday/xavier_28.png"
       ]
     },
     {
-      "title": "Monkey D.Luffy",
-      "preview": "https://zonekapp.com/AndroidStudio/Drawing/luffy.png",
-      "locked": true,
-      "steps": [
-        "luffy_1",
-        "luffy_2"
-      ]
-    },
-    {
-      "title": "Nami",
-      "preview": "https://zonekapp.com/AndroidStudio/Drawing/nami.png",
+      "title": "Wednesday Cool",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_icon.png",
       "locked": false,
       "steps": [
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/1.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/2.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/3.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/4.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/5.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/6.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/7.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/8.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/9.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/11.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/12.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/13.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/14.png"
-      ]
-    }
-  ],
-  "Naruto": [
-    {
-      "title": "Naruto",
-      "preview": "",
-      "steps": [
-        "nar_1",
-        "nar_2"
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_1.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_2.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_3.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_4.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_5.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_6.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_7.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_8.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_9.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_10.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_11.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_12.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_13.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_14.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_15.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_16.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_17.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_18.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_19.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_20.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_21.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_22.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_23.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_24.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_25.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_26.png"
       ]
     },
     {
-      "title": "Kakashi Hatake",
-      "preview": "",
+      "title": "Wednesday Cool",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_icon.png",
+      "locked": false,
       "steps": [
-        "kak_1",
-        "kak_2"
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_1.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_2.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_3.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_4.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_5.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_6.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_7.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_8.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_9.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_10.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_11.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_12.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_13.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_14.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_15.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_16.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_17.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_18.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_19.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_20.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_21.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_22.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_23.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_24.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_25.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_26.png"
       ]
-    }
+    },
+    {
+      "title": "Thing Netflix Wednesday",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_icon.png",
+      "locked": false,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_1.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_2.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_3.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_4.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_5.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_6.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_7.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_8.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_9.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_10.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_11.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_12.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_13.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_14.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_15.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_16.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_17.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_18.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_19.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_20.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_21.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_22.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_23.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_24.png"
+      ]
+    },
+    {
+      "title": "Tayler Galpin",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Tayler%20Galpin/tayler_galpin_icon.png",
+      "locked": false,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Tayler%20Galpin/tayler_galpin_1.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Tayler%20Galpin/tayler_galpin_2.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Tayler%20Galpin/tayler_galpin_3.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Tayler%20Galpin/tayler_galpin_4.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Tayler%20Galpin/tayler_galpin_5.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Tayler%20Galpin/tayler_galpin_6.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Tayler%20Galpin/tayler_galpin_7.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Tayler%20Galpin/tayler_galpin_8.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Tayler%20Galpin/tayler_galpin_9.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Tayler%20Galpin/tayler_galpin_10.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Tayler%20Galpin/tayler_galpin_11.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Tayler%20Galpin/tayler_galpin_12.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Tayler%20Galpin/tayler_galpin_13.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Tayler%20Galpin/tayler_galpin_14.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Tayler%20Galpin/tayler_galpin_15.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Tayler%20Galpin/tayler_galpin_16.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Tayler%20Galpin/tayler_galpin_17.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Tayler%20Galpin/tayler_galpin_18.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Tayler%20Galpin/tayler_galpin_19.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Tayler%20Galpin/tayler_galpin_20.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Tayler%20Galpin/tayler_galpin_21.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Tayler%20Galpin/tayler_galpin_22.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Tayler%20Galpin/tayler_galpin_23.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Tayler%20Galpin/tayler_galpin_24.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Tayler%20Galpin/tayler_galpin_25.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Tayler%20Galpin/tayler_galpin_26.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Tayler%20Galpin/tayler_galpin_27.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Tayler%20Galpin/tayler_galpin_28.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Tayler%20Galpin/tayler_galpin_29.png"
+      ]
+    },
+    {
+      "title": "Thing Netflix Wednesday",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_icon.png",
+      "locked": false,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_1.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_2.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_3.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_4.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_5.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_6.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_7.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_8.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_9.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_10.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_11.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_12.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_13.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_14.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_15.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_16.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_17.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_18.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_19.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_20.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_21.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_22.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_23.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_24.png"
+      ]
+    },
+    {
+      "title": "Pogsley Netflix",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Pogsley%20Netflix/pogsley_netflex_icon.png",
+      "locked": false,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Pogsley%20Netflix/pogsley_netflex_1.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Pogsley%20Netflix/pogsley_netflex_2.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Pogsley%20Netflix/pogsley_netflex_3.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Pogsley%20Netflix/pogsley_netflex_4.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Pogsley%20Netflix/pogsley_netflex_5.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Pogsley%20Netflix/pogsley_netflex_6.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Pogsley%20Netflix/pogsley_netflex_7.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Pogsley%20Netflix/pogsley_netflex_8.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Pogsley%20Netflix/pogsley_netflex_9.png"
+      ]
+    },
+    {
+      "title": "Morticia Easy",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Morticia%20Easy/morticia_easy_icon.png",
+      "locked": false,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Morticia%20Easy/morticia_easy_1.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Morticia%20Easy/morticia_easy_2.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Morticia%20Easy/morticia_easy_3.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Morticia%20Easy/morticia_easy_4.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Morticia%20Easy/morticia_easy_5.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Morticia%20Easy/morticia_easy_6.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Morticia%20Easy/morticia_easy_7.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Morticia%20Easy/morticia_easy_8.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Morticia%20Easy/morticia_easy_9.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Morticia%20Easy/morticia_easy_10.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Morticia%20Easy/morticia_easy_11.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Morticia%20Easy/morticia_easy_12.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Morticia%20Easy/morticia_easy_13.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Morticia%20Easy/morticia_easy_14.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Morticia%20Easy/morticia_easy_15.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Morticia%20Easy/morticia_easy_16.png"
+      ]
+    },
+    {
+      "title": "Gomez Addams",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Gomez%20Addams/gomez_addams_icon.png",
+      "locked": false,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Gomez%20Addams/gomez_addams_1.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Gomez%20Addams/gomez_addams_2.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Gomez%20Addams/gomez_addams_3.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Gomez%20Addams/gomez_addams_4.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Gomez%20Addams/gomez_addams_5.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Gomez%20Addams/gomez_addams_6.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Gomez%20Addams/gomez_addams_7.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Gomez%20Addams/gomez_addams_8.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Gomez%20Addams/gomez_addams_9.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Gomez%20Addams/gomez_addams_10.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Gomez%20Addams/gomez_addams_11.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Gomez%20Addams/gomez_addams_12.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Gomez%20Addams/gomez_addams_13.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Gomez%20Addams/gomez_addams_14.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Gomez%20Addams/gomez_addams_15.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Gomez%20Addams/gomez_addams_16.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Gomez%20Addams/gomez_addams_17.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Gomez%20Addams/gomez_addams_18.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Gomez%20Addams/gomez_addams_19.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Gomez%20Addams/gomez_addams_20.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Gomez%20Addams/gomez_addams_21.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Gomez%20Addams/gomez_addams_22.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Gomez%20Addams/gomez_addams_23.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Gomez%20Addams/gomez_addams_24.png"
+      ]
+    },
+    {
+      "title": "Enid Sinclair",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Enid%20Sinclair/enid_sinclair_icon.png",
+      "locked": false,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Enid%20Sinclair/enid_sinclair_1.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Enid%20Sinclair/enid_sinclair_2.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Enid%20Sinclair/enid_sinclair_3.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Enid%20Sinclair/enid_sinclair_4.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Enid%20Sinclair/enid_sinclair_5.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Enid%20Sinclair/enid_sinclair_6.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Enid%20Sinclair/enid_sinclair_7.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Enid%20Sinclair/enid_sinclair_8.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Enid%20Sinclair/enid_sinclair_9.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Enid%20Sinclair/enid_sinclair_10.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Enid%20Sinclair/enid_sinclair_11.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Enid%20Sinclair/enid_sinclair_12.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Enid%20Sinclair/enid_sinclair_13.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Enid%20Sinclair/enid_sinclair_14.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Enid%20Sinclair/enid_sinclair_15.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Enid%20Sinclair/enid_sinclair_16.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Enid%20Sinclair/enid_sinclair_17.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Enid%20Sinclair/enid_sinclair_18.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Enid%20Sinclair/enid_sinclair_19.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Enid%20Sinclair/enid_sinclair_20.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Enid%20Sinclair/enid_sinclair_21.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Enid%20Sinclair/enid_sinclair_22.png"
+      ]
+    },
+    {
+      "title": "Bianca",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Bianca/bianca_icon.png",
+      "locked": false,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Bianca/bianca_1.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Bianca/bianca_2.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Bianca/bianca_3.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Bianca/bianca_4.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Bianca/bianca_5.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Bianca/bianca_6.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Bianca/bianca_7.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Bianca/bianca_8.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Bianca/bianca_9.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Bianca/bianca_10.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Bianca/bianca_11.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Bianca/bianca_12.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Bianca/bianca_13.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Bianca/bianca_14.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Bianca/bianca_15.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Bianca/bianca_16.png"
+      ]
+    },
+    {
+      "title": "Adams Family",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Adams%20Family/adams_family_icon.png",
+      "locked": false,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Adams%20Family/adams_family_1.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Adams%20Family/adams_family_2.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Adams%20Family/adams_family_3.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Adams%20Family/adams_family_4.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Adams%20Family/adams_family_5.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Adams%20Family/adams_family_6.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Adams%20Family/adams_family_7.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Adams%20Family/adams_family_8.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Adams%20Family/adams_family_9.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Adams%20Family/adams_family_10.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Adams%20Family/adams_family_11.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Adams%20Family/adams_family_12.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Adams%20Family/adams_family_13.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Adams%20Family/adams_family_14.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Adams%20Family/adams_family_15.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Adams%20Family/adams_family_16.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Adams%20Family/adams_family_17.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Adams%20Family/adams_family_18.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Adams%20Family/adams_family_19.png"
+      ]
+    }   
   ]
 }
