@@ -138,7 +138,7 @@
       ]
     },
     {
-      "title": "AB-46 (TKB-415)",
+      "title": "AB-46/TKB-415",
       "preview": "https://raw.githubusercontent.com/skinsMap/WeDraw-Weapons/main/8/0.png",
       "locked": false,
       "steps": [
@@ -153,10 +153,18 @@
     },
     {
       "title": "Gomez Addams",
-      "preview": "https://raw.githubusercontent.com/skinsMap/WeDraw-Weapons/main/9/0.png",
+      "preview": "https://raw.githubusercontent.com/skinsMap/WeDraw-Weapons/main/11/0.png",
       "locked": false,
       "steps": [
-        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Gomez%20Addams/gomez_addams_1.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw-Weapons/main/11/1.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw-Weapons/main/11/2.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw-Weapons/main/11/3.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw-Weapons/main/11/4.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw-Weapons/main/11/5.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw-Weapons/main/11/6.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw-Weapons/main/11/7.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw-Weapons/main/11/8.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw-Weapons/main/11/9.png"
       ]
     },
     {
